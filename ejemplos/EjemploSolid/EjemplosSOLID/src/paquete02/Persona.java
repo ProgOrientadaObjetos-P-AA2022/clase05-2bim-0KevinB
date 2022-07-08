@@ -1,3 +1,4 @@
+
 /*
 S — Single responsibility principle 
     Principio de responsabilidad única

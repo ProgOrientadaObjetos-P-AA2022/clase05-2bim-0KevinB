@@ -54,7 +54,6 @@ public class TiposTransporte {
     }
 
     public static void main(String[] args) {
-        System.out.println(obtenerPromedioTarifas());
     }
 
 }
